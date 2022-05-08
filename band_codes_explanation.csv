@@ -1,0 +1,27 @@
+Abbrev.,Color,Number code,,
+DG,Dark Green,1,,
+LG,Light Green,2,,
+Y,Yellow,3,,
+R,Red,4,,
+DB,Dark Blue,5,,
+LB,Light Blue,6,,
+O,Orange,7,,
+W,White,8,,
+B,Black,9,,
+L,Lavender,10,,
+HP,Hot Pink,11,,
+BW,Black/White (split band),9&8,,
+HPDB,Hot Pink/Dark Blue (split band),11&5,,
+LGL,Light Green/Lavender (split band),2&10,,
+RY,Red/Yellow (split band),4&3,,
+LW,Lavender/White (split band),10&8,,
+DBR,Dark Blue/Red (split band),5&4,,
+RW,Red/White (split band),4&8,,
+,,,,Note:
+,,,,Split bands are coded as the combination of their two constituent colors
+,,,,
+,,,,For example:
+,,,,Red = 4
+,,,,White = 8
+,,,,"therefore,"
+,,,,Red/White = 4&8
